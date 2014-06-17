@@ -1,0 +1,17 @@
+{
+  "name": "onde-reciclo",
+  "version": "0.0.1",
+  "description": "Onde Reciclo Maps App",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
